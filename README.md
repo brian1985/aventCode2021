@@ -7,5 +7,5 @@ As my goal is two fold:
 - First to try and be creative in solving the problems
 - Second to understand new algorithms and approaches
 
-Because of this, there are a handful of examples where either I used other people's improved algorithms (ie brute force vs an elogent solution) because the second part of the problem required a non-brute force solution. Also, I sometimes included my own solution and another solution (again I tried to include a link to a repo or at least Advent username for who presented original code) to help widen by programming understanding.
+Because of this, there are a few cases where either I switched to other people's improved algorithms (that were possibly more computationally efficient) because the second part of the problem required a non-brute force solution. Also, sometimes included my own solution and another solution next to it (again I tried to include a link to a repo or at least Advent username for who presented original code) to help widen by programming understanding.
 
